@@ -1,0 +1,3 @@
+GET http://candidateservices.allegient.com/randomQuote/swagger-ui.html#!/quote-controller/quoteUsingGET
+
+GET http://candidateservices.allegient.com/randomQuote/quote?symbols=GOOG,AAPL
